@@ -1,0 +1,224 @@
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/appsettings.Development.json
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/appsettings.json
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Blog Site.staticwebassets.runtime.json
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Blog Site.staticwebassets.endpoints.json
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Blog Site
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Blog Site.deps.json
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Blog Site.runtimeconfig.json
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Blog Site.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Blog Site.pdb
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Azure.Core.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Azure.Identity.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Castle.Core.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Humanizer.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.ClientModel.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.CodeDom.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.Drawing.Common.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.Security.Permissions.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/System.Windows.Extensions.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/Blog Site.csproj.AssemblyReference.cache
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/Blog Site.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/Blog Site.AssemblyInfoInputs.cache
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/Blog Site.AssemblyInfo.cs
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/Blog Site.csproj.CoreCompileInputs.cache
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/Blog Site.MvcApplicationPartsAssemblyInfo.cache
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/Blog Site.RazorAssemblyInfo.cache
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/Blog Site.RazorAssemblyInfo.cs
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/Blog Site.sourcelink.json
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/scopedcss/bundle/Blog Site.styles.css
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/scopedcss/projectbundle/Blog Site.bundle.scp.css
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/wr92dwhvtj-2lda0d6xx3.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/7ziwjerxyx-6hzv7r2xmv.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/ou0gbae30q-fr7q2aak1r.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/pxtv8xy5p9-bqjiyaj88i.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/yrglf3nafs-c2jlpeoesf.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/c41q6ovtq1-erw9l3u2r3.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/t6l7tx683r-aexeepp0ev.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/9t21xglpic-d7shbmvgxk.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/xrxcc6js26-ausgxo2sd3.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/r4c6p2okxh-k8d9w2qqmf.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/jyhg1nsyiq-cosvhxvwiu.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/avhlow0ep4-ub07r2b239.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/9uh4jqgf51-fvhpjtyr6v.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/t9twa9nb3p-b7pk76d08c.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/k4hce73ink-fsbi9cje9m.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/upqwqnbsu5-rzd6atqjts.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/y2d9v6ivxc-ee0r1s7dh0.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/ja5e51lep7-dxx9fxp4il.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/eauqxg4qi3-jd9uben2k1.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/32ppy2ozhk-khv3u5hwcm.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/56cel8gbzv-r4e9w2rdcm.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/u8tnvkjqi1-lcd1t2u6c8.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/ua6a83cy5w-c2oey78nd0.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/la4oje9xhv-tdbxkamptv.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/si99bfyylj-j5mq2jizvt.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/2d0oyl468j-06098lyss8.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/n0v40fhjbp-nvvlpmu67g.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/4h3h4jcsi1-s35ty4nyc5.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/vbcaqzk8co-pj5nd1wqec.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/jx89h62sws-46ein0sx1k.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/o2meitrisr-v0zj4ognzu.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/57lfizxps0-37tfw0ft22.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/fzc0e7k51q-hrwsygsryq.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/ycfilo7l4l-pk9g2wxc8p.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/8kerlwg3pu-ft3s53vfgj.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/veg2zwgzc9-6cfz1n2cew.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/j8l0wh4360-6pdc2jztkx.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/25d2walezn-493y06b0oq.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/ndfcozux02-iovd86k7lj.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/27l8gn6ivz-vr1egmr9el.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/7n5ksofzbt-kbrnm935zg.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/2roe8zr9xq-jj8uyg4cgr.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/75zkglazbz-y7v9cxd14o.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/qz4r7d7or5-notf2xhcfb.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/k50rv9ei4b-h1s4sie4z3.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/skzzsu9gyk-63fj8s7r0e.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/d63s99ufci-0j3bgjxly4.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/tso3ahmxkt-47otxtyo56.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/euo96616sk-4v8eqarkd7.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/2fjmi985w9-l3n5xuwxn8.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/csn7ab05vq-ilo7uva0vt.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/ivf1cx9ttl-qlccset4i1.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/webi5ygre4-lzl9nlhx6b.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/lj6z3j9igq-ag7o75518u.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/fi636g4dp3-xzw0cte36n.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/7e3ywrmwnu-0i3buxo5is.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/xomblbwgx6-o1o13a6vjx.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/twmj1wiz84-ttgo8qnofa.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/3k3hsxqcqb-2z0ns9nrw6.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/vrr081cq6y-muycvpuwrr.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/p42amjxpgp-87fc7y1x7t.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/x1mxieq4yn-jfsiqqwiad.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/5a6dzbr5mk-0rnby80gqg.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/compressed/te8qozgyz1-0rnby80gqg.gz
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/staticwebassets.build.json
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/staticwebassets.development.json
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/staticwebassets/msbuild.Blog Site.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/staticwebassets/msbuild.Blog Site.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/staticwebassets/msbuild.build.Blog Site.props
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Blog Site.props
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Blog Site.props
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/Blog Site.csproj.Up2Date
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/Blog Site.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/refint/Blog Site.dll
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/Blog Site.pdb
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/Blog Site.genruntimeconfig.cache
+/Users/vencimarev/Documents/GitHub/Blog_Site/06.01.2025/Blog Site/obj/Debug/net9.0/ref/Blog Site.dll
